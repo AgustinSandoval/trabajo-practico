@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602879939 source:c:\users\facup\onedrive\documentos\facultad\pruebaarchivo\main.cpp
+	<iostream>
+	<fstream>
+
