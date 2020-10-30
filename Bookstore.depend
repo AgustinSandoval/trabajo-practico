@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601314648 source:d:\usuarios\alumno\descargas\algo\bookstore\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+
